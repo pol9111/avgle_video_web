@@ -1,0 +1,158 @@
+
+
+
+点击关闭广告后, 生成一个有时效key(根据video_id), 在该时间段里访问302url(包含该key)跳转的M3U8文件, 使用下载工具下载 
+访问需要Referer: 原本视频url
+
+
+加密的js脚本
+https://cdnjs.cloudflare.com/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js
+
+
+302url(包含该key)
+https://cdn.qooqlevideo.com/key=AU91kcx3iC5lfHr-mBKY1g,end=1538354963,limit=2/referer=force,.avgle.com/data=1538354963/media=hlsA/211309.mp4
+
+
+
+
+
+https://ip54177648.ahcdn.com/key=vTn03JD9CxuZtSkPNJ3OAA,s=,end=1538339436,limit=2/data=1538339436/state=doxB/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd3/177/3/110063493.mp4/seg-5-v1-a1.ts
+
+
+/videos/kr  211309
+
+
+https://avgle.com//media.adstatic.com/media/91093b4c-0158-4007-8d51-7dfa9d66b537/29103d1f-5f8c-4f93-94b8-f3cc1e40e80f.mp4
+
+
+https://ip54177648.ahcdn.com/key=k4iAxuyLqK7RkymKdScYsQ,s=,end=1538346724,limit=2/data=1538346724/state=L0s0/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd3/177/3/110063493.mp4/seg-3-v1-a1.ts
+
+
+
+https://ip5484989.ahcdn.com/key=PVqAgtbHFA1frY5sbp8iWg,s=,end=1538345804,limit=2/data=1538345804/state=L0s0/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd1/177/8/111315248.mp4/seg-2-v1-a1.ts
+
+
+
+https://cdn.qooqlevideo.com/key=QjfrV28HwuYuw6KyA2GJsQ,end=1538345804,limit=2/referer=force,.avgle.com/data=1538345804/media=hlsA/215682.mp4
+
+
+
+https://cdn.qooqlevideo.com/key=PkYUROS-HbZTFvf-IWTpWg,end=1538354963,limit=2/referer=force,.avgle.com/data=1538354963/media=hlsA/211309.mp4
+
+
+
+https://r9---sn-i3coi3b6.qooqlevideo.com/videoplayback?sparams=clen,dur,ei,expire,gir,hcs,id,ip,ipbits,ipbypass,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,shardbypass,source,upn&ip=47.75.52.39&clen=557882207&id=abLKqy4dRWmK7xlfpUpGwfiQsK-OvasRyLrB9I00t3hcXXlP&source=youtube&sub=r9---sn-i3coi3b6&upn=fuerebR_dwX&ei=M59LMefFi4RzBSslcRvCs-&itag=18&ks=zHcg7wRqimkd_UmPOAKshw&pl=20&lmt=1537458767538752&expire=1540050767&ipbits=0&dur=1046.09&gir=yes&mime=video/mp4&key=&requiressl=yes&beids=[8478615]&ratebypass=yes&signature=7602E97F1F120069BFE45C76A406A069FBED7CB6.657F17C3C3FB381C00F2F469F5D59C5F6ED5AF7A&redirect_counter=1&req_id=1Wf1ucUXI916k-XO&cms_redirect=yes&hcs=yes&s2=t/1540050767/t1ZjYcgO311bpCz-X_w6Dw&s3=aHR0cHM6Ly9jZG4ucW9vcWxldmlkZW8uY29tL2tleT1hS0ptNVJncUdnaXJXMWdianVWbVhRLGVuZD0xNTM4MzQ2NDA5LGxpbWl0PTIvcmVmZXJlcj1mb3JjZSwuYXZnbGUuY29tL2RhdGE9MTUzODM0NjQwOS9tZWRpYT1obHNBLzIxMTMwOS5tcDQ=&ipbypass=yes&mm=31&mn=sn-i3co-i3b6&ms=au&mt=1537458767&mv=m&shardbypass=yes&aid=211309
+
+
+Location: https://ip54177648.ahcdn.com/key=PkYUROS-HbZTFvf-IWTpWg,s=,end=1538346744,limit=2/data=1538346744/state=L0s0/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd3/177/3/110063493.m3u8
+
+
+https://ip54177648.ahcdn.com/key=HlYUROS-HbZTFvf-IWTpWg,s=,end=1538346744,limit=2/data=1538346744/state=L0s0/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd3/177/3/110063493.m3u8
+
+
+src="https://s7.addthis.com/static/sh.e4e8af4de595fdb10ec1459d.html#rand=0.08031972804735821&iit=1538337227404&tmr=load%3D1538337225445%26core%3D1538337225486%26main%3D1538337227392%26ifr%3D1538337227416&cb=0&cdn=0&md=0&kw=Korean-BJ&ab=-&dh=avgle.com&dr=&du=https%3A%2F%2Favgle.com%2Fvideo%2FlAf5C5Czb5s%2Fkbj-korean-bj-2018092108&href=https%3A%2F%2Favgle.com%2Fvideo%2FlAf5C5Czb5s%2Fkbj-korean-bj-2018092108&dt=KBJ%20KOREAN%20BJ%202018092108&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=1&prod=undefined&lng=en&ogt=description%2Cvideo%2Ctype%3Dimage%2Fjpg%2Csecure_url%2Cimage%2Ctype%3Dvideo%2Curl&pc=men&pub=ra-58a2e9d645e86f23&ssl=1&sid=5bb129c9ed9c987c&srf=0.01&ver=300&xck=0&xtr=0&og=site_name%3DAvgle.com%26title%3DKBJ%2520KOREAN%2520BJ%25202018092108%26url%3Dhttps%253A%252F%252Favgle.com%252Fvideo%252FlAf5C5Czb5s%252Fkbj-korean-bj-2018092108%26type%3Dimage%252Fjpg%26image%3Dhttps%253A%252F%252Fstatic-clst.avgle.com%252Fvideos%252Ftmb6%252F211309%252Fdefault.jpg%26secure_url%3Dhttps%253A%252F%252Fstatic-clst.avgle.com%252Fvideos%252Ftmb6%252F211309%252Fdefault.jpg%26video%3Dhttps%253A%252F%252Fstatic-clst.avgle.com%252Fvideos%252Ftmb6%252F211309%252Fpreview.mp4%26description%3DKBJ%2520KOREAN%2520BJ%25202018092108&csi=undefined&rev=v8.3.5-wp&ct=1&xld=1&xd=1"
+
+https://s7.addthis.com/static/sh.e4e8af4de595fdb10ec1459d.html#rand=0.08031972804735821&iit=1538337227404&tmr=load=1538337225445&core=1538337225486&main=1538337227392&ifr=1538337227416&cb=0&cdn=0&md=0&kw=Korean-BJ&ab=-&dh=avgle.com&dr=&du=https://avgle.com/video/lAf5C5Czb5s/kbj-korean-bj-2018092108&href=https://avgle.com/video/lAf5C5Czb5s/kbj-korean-bj-2018092108&dt=KBJ KOREAN BJ 2018092108&dbg=0&cap=tc=0&ab=0&inst=1&jsl=1&prod=undefined&lng=en&ogt=description,video,type=image/jpg,secure_url,image,type=video,url&pc=men&pub=ra-58a2e9d645e86f23&ssl=1&sid=5bb129c9ed9c987c&srf=0.01&ver=300&xck=0&xtr=0&og=site_name=Avgle.com&title=KBJ%20KOREAN%20BJ%2020180921088
+
+&description=KBJ%20KOREAN%20BJ%202018092108&csi=undefined&rev=v8.3.5-wp&ct=1&xld=1&xd=1
+
+
+211309
+
+
+https://static-clst.avgle.com/videos/tmb6/211309/default.jpg
+video=https://static-clst.avgle.com/videos/tmb6/211309/preview.mp4
+
+https://ip54177648.ahcdn.com/key=PkYUROS-HbZTFvf-IWTpWg,s=,end=1538346744,limit=2/data=1538346744/state=L0s0/referer=force,.avgle.com/reftag=56109644/media=hlsA/ssd3/177/3/110063493.m3u8
+
+
+<button class="vjs-big-play-button" type="button" aria-live="polite" title="Play Video" aria-disabled="false"><span class="vjs-control-text">Play Video</span></button>
+
+
+<i class="glyphicon glyphicon-remove-circle" style="top: 0;"></i>
+
+
+
+
+
+
+关闭广告后执行
+  
+  // $.get(window.location.href + '?count_only=1&t=' + Date.now(), function(result) {
+  //   console.log(result);
+  // });
+  var vjsLoaded = false;
+  var played = false;
+  var showBlockIf = function () {
+    $('#blocked-if').fadeIn();
+  };
+  setTimeout(showBlockIf, 5000);
+  var appendInterval = setInterval(function() {
+    if ($('#video-player').prop('tagName') === 'DIV') {
+      $('#video-player').append('<div id="aoverlay" style="position: absolute;width: 100%;height: 100%;top: 0;background-color: rgba(0,0,0,0.3);z-index: 99;"></div>');
+      clearInterval(appendInterval);
+      vjsLoaded = true;
+    }0
+  }, 20);
+  var key = 'play_' + md5(video_id);
+  localStorage.removeItem(key);
+  console.clear = function () {}
+  var closeAd = function (e) {
+    try {
+      if (!e.screenX || e.originalEvent.isTrusted === false) {
+        return;
+      }
+    } catch (e) {
+    }
+    if (isEmbedded && !window.open('javascript:close()', '_blank')) {
+      window.location = redirectURL + '?from_embed';
+      return;
+    }
+    $('#player_3x2_container').hide();
+    $('#aoverlay').hide();
+    localStorage[key] = 1;
+    /*
+    if (!played) {
+      player.play();
+      $('#close-btn-icon').removeClass('glyphicon-play');
+      $('#close-btn-icon').addClass('glyphicon-remove');
+      $('#close-btn-text').text(' 閉じる・Close');
+      played = true;
+    }*/
+  };
+  $('#player_3x2_close').on('click touchstart', closeAd);
+  if (mobileAndTabletCheck()) {
+    var listener = addEventListener('blur', function() {
+      activeE = document.activeElement;
+      if (activeE.href && activeE.href.indexOf('exosrv.com') !== -1) {
+        return;
+      }
+      while ($) {
+        activeE = activeE.parentElement;
+        if (activeE) {
+          if (activeE === document.getElementById('player_3x2_container')) {
+            setTimeout(closeAd, 1000);
+            break;
+          }
+        } else {
+          break;
+        }
+      }
+      removeEventListener('blur', listener);
+    });
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
